@@ -1,0 +1,14 @@
+[32mINFO    [0m root:do_log.py:33 在元素<('xpath', '//input[@id="account"]')>中输入内容<admin>
+[32mINFO    [0m root:do_log.py:33 开始等待页面元素<('xpath', '//input[@id="account"]')>是否可见
+[32mINFO    [0m root:do_log.py:33 页面元素<('xpath', '//input[@id="account"]')>等待可见，等待时间为：0.02秒
+[32mINFO    [0m root:do_log.py:33 在登录页面_登录功能中查找元素<('xpath', '//input[@id="account"]')>
+[32mINFO    [0m root:do_log.py:33 在元素<('xpath', '//input[@name="password"]')>中输入内容<>
+[32mINFO    [0m root:do_log.py:33 开始等待页面元素<('xpath', '//input[@name="password"]')>是否可见
+[32mINFO    [0m root:do_log.py:33 页面元素<('xpath', '//input[@name="password"]')>等待可见，等待时间为：0.01秒
+[32mINFO    [0m root:do_log.py:33 在登录页面_登录功能中查找元素<('xpath', '//input[@name="password"]')>
+[32mINFO    [0m root:do_log.py:33 在登录页面_登录功能中点击元素<('xpath', '//button[@id="submit"]')>
+[32mINFO    [0m root:do_log.py:33 开始等待页面元素<('xpath', '//button[@id="submit"]')>是否可见
+[32mINFO    [0m root:do_log.py:33 页面元素<('xpath', '//button[@id="submit"]')>等待可见，等待时间为：0.02秒
+[32mINFO    [0m root:do_log.py:33 在登录页面_登录功能中查找元素<('xpath', '//button[@id="submit"]')>
+[32mINFO    [0m root:do_log.py:33 获取alert文本
+[32mINFO    [0m root:do_log.py:33 ==================这条测试用例执行结束啦：刷新一下浏览器=================

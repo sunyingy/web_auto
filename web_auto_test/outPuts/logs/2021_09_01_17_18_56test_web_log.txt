@@ -1,0 +1,17 @@
+2021-09-01 17:18:56,331 do_log.py my_log  do_log 20 INFO ==================测试登录功能开始啦：打开浏览器=================
+2021-09-01 17:19:03,208 do_log.py my_log  do_log 20 INFO 在元素<('xpath', '//input[@id="account"]')>中输入内容<admin1>
+2021-09-01 17:19:03,209 do_log.py my_log  do_log 20 INFO 开始等待页面元素<('xpath', '//input[@id="account"]')>是否可见
+2021-09-01 17:19:03,233 do_log.py my_log  do_log 20 INFO 页面元素<('xpath', '//input[@id="account"]')>等待可见，等待时间为：0.02秒
+2021-09-01 17:19:03,233 do_log.py my_log  do_log 20 INFO 在登录页面_登录功能中查找元素<('xpath', '//input[@id="account"]')>
+2021-09-01 17:19:03,285 do_log.py my_log  do_log 20 INFO 在元素<('xpath', '//input[@name="password"]')>中输入内容<admin@123456>
+2021-09-01 17:19:03,286 do_log.py my_log  do_log 20 INFO 开始等待页面元素<('xpath', '//input[@name="password"]')>是否可见
+2021-09-01 17:19:03,305 do_log.py my_log  do_log 20 INFO 页面元素<('xpath', '//input[@name="password"]')>等待可见，等待时间为：0.02秒
+2021-09-01 17:19:03,306 do_log.py my_log  do_log 20 INFO 在登录页面_登录功能中查找元素<('xpath', '//input[@name="password"]')>
+2021-09-01 17:19:03,385 do_log.py my_log  do_log 20 INFO 在登录页面_登录功能中点击元素<('xpath', '//button[@id="submit"]')>
+2021-09-01 17:19:03,386 do_log.py my_log  do_log 20 INFO 开始等待页面元素<('xpath', '//button[@id="submit"]')>是否可见
+2021-09-01 17:19:03,404 do_log.py my_log  do_log 20 INFO 页面元素<('xpath', '//button[@id="submit"]')>等待可见，等待时间为：0.02秒
+2021-09-01 17:19:03,405 do_log.py my_log  do_log 20 INFO 在登录页面_登录功能中查找元素<('xpath', '//button[@id="submit"]')>
+2021-09-01 17:19:03,510 do_log.py my_log  do_log 20 INFO 开始等待页面元素<('xpath', '//a[text()="退出"]')>是否可见
+2021-09-01 17:19:03,512 do_log.py my_log  do_log 40 ERROR 页面元素<('xpath', '//a[text()="退出"]')>等待可见失败
+2021-09-01 17:19:03,514 do_log.py my_log  do_log 40 ERROR 截图失败
+2021-09-01 17:19:03,558 do_log.py my_log  do_log 20 INFO ==================测试登录功能结束啦：关闭浏览器=================
